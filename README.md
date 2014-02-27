@@ -2,7 +2,7 @@
 ========
 
 2 x Seven Segment Display Peripheral Board File Repository
-Here included are all project file described in the article http://wiki.pinguino.cc/index.php//SDevice
+Here included are all project file described in the article http://wiki.pinguino.cc/index.php/7SDevice
 
 - 7S_Eagle.zip          Eagle files Schematic, pcb board, ready to print pdf files
 - SPI_simulator.zip     Java Netbean project that simulate device and host interaction
